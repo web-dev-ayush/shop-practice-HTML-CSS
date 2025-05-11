@@ -1,0 +1,128 @@
+img {
+    width: 240px;
+}
+
+img {
+    float: left;
+    margin: 20px;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: "Baloo Bhai 2", sans-serif
+}
+
+H1 {
+    text-align: center;
+
+    font-weight: 400;
+    text-decoration: underline #273746
+}
+
+h1 {
+    color: #273746
+}
+
+BODY {
+    background-image: url(AES\ WHITE.jpg);
+    background-size: cover;
+    /* covers the whole page */
+    background-repeat: no-repeat;
+    /* prevents repeat */
+    background-position: center;
+    /* centers the image */
+
+}
+
+IMG {
+    box-sizing: border-box;
+    border: 3PX SOLID;
+}
+
+button {
+    box-sizing: border-box;
+    color: #273746;
+    background-color: white;
+    font-family: "Baloo Bhai 2", sans-serif;
+    width: 16VW;
+    font-weight: 600;
+    font-size: larger;
+
+}
+
+.II {
+    float: 10px;
+}
+
+.q {
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.q:hover {
+    background-color: #273746;
+    color: aliceblue;
+}
+
+.oo {
+    padding: 10px;
+    border: 30px;
+}
+
+.oo {
+    margin: 15px;
+}
+
+#er {
+    margin: 34px;
+    padding: ;
+}
+
+.lol {
+    width: 300px;
+    height: 350px;
+    float: right;
+    margin: 20px;
+}
+
+.ASSS {
+    padding: 15PX;
+    margin-bottom: 100PX;
+}
+
+#GG {
+    text-align: right;
+
+}
+
+#JJ {
+    float: right;
+    margin-bottom: 100PX;
+}
+
+.MM {
+    margin-bottom: 100PX;
+
+}
+
+.lo {
+    width: 250px;
+    height: 400px;
+    float: right;
+    margin: 20px;
+}
+
+#er {
+    border-radius: 40px;
+}
+
+img {
+    border-radius: 40px;
+}
